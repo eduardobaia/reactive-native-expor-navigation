@@ -1,0 +1,28 @@
+Install core of navigation first_pagethen choose the navigation strategy
+
+npm install @react-navigation/native
+
+
+Mover de uma tela pra outra 
+npx expo install react-native-screens react-native-safe-area-context
+
+TAB navigation 
+
+npm install @react-navigation/bottom-tabs
+
+Stack   
+
+npm install @react-navigation/drawer
+
+
+npx expo install react-native-gesture-handler react-native-reanimated
+import 'react-native-gesture-handler';
+
+npx expo install react-native-reanimated
+
+
+then
+
+npm install @react-navigation/native-stack
+
+
